@@ -25,10 +25,10 @@ Use NLP or sentiment analysis (like TensorFlow.js sentiment model) to detect the
 
 Every word could have a *style personality*:
 
-* “Love” = grows and glows softly
-* “Anger” = shakes violently and fades
-* “Hope” = rises upwards slowly
-* “Lost” = drifts away into the dark
+- “Love” = grows and glows softly
+- “Anger” = shakes violently and fades
+- “Hope” = rises upwards slowly
+- “Lost” = drifts away into the dark
 
 → Use **generative typography** or **particle systems** (p5.js, Three.js, or PixiJS).
 
@@ -36,22 +36,22 @@ Every word could have a *style personality*:
 
 Over time, your installation could build a *“mood climate”*:
 
-* Aggregates all inputs and visualizes the general mood of the crowd (like a weather forecast of feelings).
-* Maybe a glowing “mood orb” floats in the corner and changes color as the collective emotion shifts.
+- Aggregates all inputs and visualizes the general mood of the crowd (like a weather forecast of feelings).
+- Maybe a glowing “mood orb” floats in the corner and changes color as the collective emotion shifts.
 
 ## 5. **Projection**
 
 Use multiple projectors or large wall projections for immersion:
 
-* The words float, merge, or dissolve into each other.
-* You could use a **motion sensor** (like a Kinect or webcam) so when someone walks near the wall, their presence makes nearby emotions “stir” or “bloom.”
+- The words float, merge, or dissolve into each other.
+- You could use a **motion sensor** (like a Kinect or webcam) so when someone walks near the wall, their presence makes nearby emotions “stir” or “bloom.”
 
 ## 7. **Technical Realization Sketch**
 
-* **Frontend:** React or p5.js for text input and visual rendering.
-* **Backend:** Node.js + Socket.io (to broadcast new emotions to the wall in real time).
-* **Projection Wall:** A second browser window running fullscreen (connected via WebSocket).
-* **Extras:** TensorFlow.js (sentiment), Howler.js (audio), and some WebGL shaders for glow/distortion effects.
+- **Frontend:** React or p5.js for text input and visual rendering.
+- **Backend:** Node.js + Socket.io (to broadcast new emotions to the wall in real time).
+- **Projection Wall:** A second browser window running fullscreen (connected via WebSocket).
+- **Extras:** TensorFlow.js (sentiment), Howler.js (audio), and some WebGL shaders for glow/distortion effects.
 
 # Optional Artistic Angle
 
