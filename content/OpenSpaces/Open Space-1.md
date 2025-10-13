@@ -1,4 +1,4 @@
 ---
-title: Open Space 13.10.2025 
+title: Open Space n°1
 ---
 
