@@ -135,6 +135,62 @@ A collaborative digital platform where each user-uploaded image becomes a "pixel
 - **Technology:** seamless integration of frontend, backend, and color analysis
 - **Creativity:** aesthetic interplay of algorithms, design, and community
 
+---
+
+### Scenario 6: [[./Scenario Perspectives/Work Map.md | Work Map – Synced To-Do Floor Plan]]
+
+**Problem Statement:**  
+In many work environments — such as restaurants, workshops, co-working spaces, or event venues — task distribution often becomes confusing. Traditional to-do lists don’t reflect the spatial context (e.g., which table, room, or area a task belongs to). How can task management be directly linked to the physical layout of a space and synchronized in real time?  
+
+**Target Audience:**  
+Team leaders, service staff, facility managers, project teams, hospitality and event operations.  
+
+**Proposed Solution:**  
+A collaborative web app where users can create a simplified building or floor plan. On this map, individual objects (e.g., a table, room, or piece of equipment) can have tasks attached to them. Any changes or new tasks are instantly synchronized across all connected users. The platform supports daily task cycles, templates for recurring to-dos, and quick selection of frequently used tasks.  
+
+**Technical Challenges:**  
+
+- Real-time synchronization (e.g., via *Firebase Realtime Database*, *WebSockets*, or *Supabase*)  
+- Intuitive floor plan creation with a drag-and-drop interface (Canvas or SVG-based implementation)  
+- Data structure linking objects (e.g., “Table 7”) with tasks and their status  
+- Recurring task logic and suggestion algorithm for frequently used to-dos  
+- User and permission management (who can edit plans, who can only view)  
+
+**Evaluation Criteria (from a professional perspective):**  
+
+- **Interactivity:** collaborative real-time work on a visual map  
+- **Technology:** seamless synchronization of data and UI elements  
+- **Creativity:** merging spatial thinking with task organization  
+- **Applicability:** adaptable for a wide range of use cases, from restaurants to project management  
+
+---
+
+### Scenario 7: [[./Scenario Perspectives/Open Search Map.md | Open Search Map – Collaborative Missing Person Search Tracker]]
+
+**Problem Statement:**  
+When a person goes missing, search efforts are often scattered across official authorities and volunteers. There is usually no unified, transparent overview of which areas have already been searched, leading to duplicated efforts and missed regions. How can technology help coordinate and visualize official and volunteer search activities to make rescue efforts more efficient and organized?  
+
+**Target Audience:**  
+Police departments, search-and-rescue organizations, volunteer groups, and concerned community members.  
+
+**Proposed Solution:**  
+A web-based interactive map that allows both police and individual volunteers to mark the areas they have already searched. Users can choose to view only officially confirmed police search zones or include additional areas covered by independent individuals. GPS data can be integrated to automatically log where searchers have been, ensuring more accurate and verifiable coverage data.  
+
+**Technical Challenges:**  
+
+- Integration of GPS data from mobile devices for live tracking of search areas  
+- Role-based access control to distinguish between official and volunteer contributions  
+- Real-time map synchronization and data updates (e.g., via *Leaflet.js*, *Mapbox*, or *Google Maps API*)  
+- Secure data handling and privacy protection, especially for sensitive or personal information  
+- Visual differentiation between official and unofficial search zones (e.g., color-coding, opacity layers)  
+
+**Evaluation Criteria (from a professional perspective):**  
+
+- **Impact:** improving coordination and transparency in missing person searches  
+- **Technology:** combining mapping, GPS tracking, and real-time data synchronization  
+- **Collaboration:** bridging official and community-led efforts in one shared interface  
+- **Ethics & Privacy:** ensuring that data use complies with safety and privacy standards  
+
 ## Decision Matrix
 
 | Criterion | Scenario 1 | Scenario 2 | Scenario 3 | Scenario 4 | Scenario 5 |
