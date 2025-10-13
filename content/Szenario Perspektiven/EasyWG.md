@@ -1,130 +1,128 @@
-﻿
-# Digitale Plattform für gemeinschaftliches Wohnen
+# Digital Platform for Shared Living
 
-## Projektidee
-Die Projektidee ist eine webbasierte Plattform zur Organisation und Kommunikation innerhalb gemeinschaftlicher Wohnformen – insbesondere für Studierende, die sich Küche, Bad und Gemeinschaftsräume teilen (z. B. Flurzimmer, WGs oder Wohnheime).  
-Ziel ist es, den Alltag effizienter, transparenter und sozialer zu gestalten.
-
----
-
-## Ziele und Nutzen
-- Vereinfachung der **Alltagsorganisation** (Putzplan, Einkäufe, Abwesenheiten etc.)
-- Förderung der **Kommunikation** und **Kooperation** zwischen Mitbewohner*innen
-- Schaffung einer **zentralen, digitalen Informationsplattform**
-- Reduktion von Missverständnissen und Konflikten im Zusammenleben
-- Förderung der **digitalen Kompetenz** durch eine nutzerfreundliche, interaktive Web-App
+## Project Idea
+The project idea is a web-based platform for organizing and communicating within shared living arrangements – especially for students who share kitchens, bathrooms, and communal spaces (e.g., dorm corridors, shared apartments, or student residences).  
+The goal is to make everyday life more efficient, transparent, and social.
 
 ---
 
-## Kernfunktionen
-
-### 1. Putzplan mit Kalenderfunktion
-- Erstellung eines rotierenden Plans für Küche, Bad und Flur  
-- Anzeige im Kalender, wer aktuell zuständig ist  
-- Möglichkeit, Termine bei Abwesenheit zu tauschen  
-- **Erweiterung:** Push-/E-Mail-Benachrichtigungen („Du bist morgen mit Putzen dran“)  
-- **Technisch:** Kalender-Integration (z. B. FullCalendar.js)
+## Objectives and Benefits
+- Simplification of **everyday organization** (cleaning schedule, shopping, absences, etc.)
+- Promotion of **communication** and **cooperation** among roommates
+- Creation of a **central digital information platform**
+- Reduction of misunderstandings and conflicts in shared living
+- Promotion of **digital competence** through a user-friendly, interactive web app
 
 ---
 
-### 2. Gemeinsame Einkaufsliste
-- Nutzer können fehlende Produkte eintragen („Gurke“, „Tomaten“)
-- Kennzeichnung, ob ein Artikel bereits gekauft wurde und von wem
-- Preisangabe + Ort der Ablage (z. B. „Kühlschrank Fach 2“)
-- **Erweiterung:**
-  - Filter nach Kategorie (Lebensmittel, Hygiene, Sonstiges)
-  - „Ich gehe einkaufen“-Modus → zeigt Artikel, die man mitbringen könnte
+## Core Features
+
+### 1. Cleaning Schedule with Calendar Function
+- Creation of a rotating plan for kitchen, bathroom, and hallway  
+- Display in the calendar showing who is currently responsible  
+- Option to swap duties in case of absence  
+- **Extension:** Push/email notifications (“You’re scheduled to clean tomorrow”)  
+- **Technical:** Calendar integration (e.g., FullCalendar.js)
 
 ---
 
-### 3. Rundfunkgebühren & gemeinsame Zahlungen
-- Anzeige der GEZ-Zahlungsnummer der WG
-- Möglichkeit, Kostenanteile automatisch zu berechnen
-- **Erweiterung:** Dokumentation gemeinsamer Verträge (z. B. Strom, Internet)
+### 2. Shared Shopping List
+- Users can add missing products (“cucumber”, “tomatoes”)
+- Indication of whether an item has already been purchased and by whom
+- Price information + storage location (e.g., “Fridge shelf 2”)
+- **Extension:**
+  - Filter by category (food, hygiene, miscellaneous)
+  - “I’m going shopping” mode → shows items that could be picked up
 
 ---
 
-### 4. Haushaltsmittel-Verwaltung
-- Liste gemeinsamer Verbrauchsartikel (Toilettenpapier, Spülmittel etc.)
-- Statusanzeige („leer“, „bald leer“, „voll“)
-- Preisangabe, automatische Aufteilung auf Bewohner
-- **Erweiterung:** Automatische Kostenabrechnung in die Finanzübersicht
+### 3. Broadcasting Fees & Shared Payments
+- Display of the shared apartment’s broadcasting fee (GEZ) number
+- Option to automatically calculate cost shares
+- **Extension:** Documentation of shared contracts (e.g., electricity, internet)
 
 ---
 
-### 5. Rechnungs- & Kostenübersicht
-- Sammelabrechnung aller WG-relevanten Ausgaben
-- Individuelle Aufstellung, wer wem wie viel schuldet
-- Möglichkeit zur monatlichen Ausgleichszahlung
-- **Erweiterung:**
-  - Integration von Mobile Payment (PayPal / Revolut-Link)
+### 4. Household Supplies Management
+- List of shared consumables (toilet paper, dish soap, etc.)
+- Status display (“empty”, “running low”, “full”)
+- Price information with automatic cost sharing among residents
+- **Extension:** Automatic cost calculation integrated into the finance overview
 
 ---
 
-### 6. Studiengang & Interessen
-- Profilfelder: Studiengang, Fachsemester, Interessen
-- Ermöglicht gegenseitige Hilfe bei Lerninhalten
-- **Erweiterung:** Matching oder Filterfunktion („zeige Mitbewohner aus gleichem Studiengang“)
+### 5. Invoice & Expense Overview
+- Summary of all shared apartment–related expenses
+- Individual overview showing who owes how much to whom
+- Option for monthly balance payments
+- **Extension:**
+  - Integration of mobile payment (PayPal / Revolut link)
 
 ---
 
-### 7. Problem- & Wartungsmeldungen
-- Meldefunktion für Defekte oder Probleme (Heizung, Dusche etc.)
-- Option, Status zu ändern: „offen“, „in Bearbeitung“, „erledigt“
-- **Erweiterung:**
-  - Foto-Upload (z. B. Schaden dokumentieren)
-  - Integration eines externen Hausmeister- oder Vermieter-Kontakts
+### 6. Study Program & Interests
+- Profile fields: study program, semester, interests
+- Enables mutual support with academic topics
+- **Extension:** Matching or filter function (“show roommates from the same study program”)
 
 ---
 
-### 8. Tutorials & Anleitungen
-- Bereich für praktische Tipps (z. B. „Wie starte ich den Boiler neu?“)
-- Text, Bild oder kurze Video-Tutorials
-- **Erweiterung:**
-  - Kategorien (Haushalt, Technik, Sicherheit)
-  - Beiträge können von Mitbewohner*innen erstellt werden
+### 7. Problem & Maintenance Reports
+- Reporting function for defects or issues (heating, shower, etc.)
+- Option to change status: “open”, “in progress”, “resolved”
+- **Extension:**
+  - Photo upload (e.g., document damage)
+  - Integration of an external janitor or landlord contact
 
 ---
 
-### 9. Leih- und Sharing-Funktion
-- Liste von Gegenständen, die ausgeliehen werden können (Werkzeug, Hausgegenstände etc.)
-- Anzeige, ob aktuell verfügbar
-- **Erweiterung:** Erinnerungsfunktion, wer etwas ausgeliehen hat
+### 8. Tutorials & Guides
+- Section for practical tips (e.g., “How to restart the boiler”)
+- Text, image, or short video tutorials
+- **Extension:**
+  - Categories (household, technology, safety)
+  - Posts can be created by roommates
 
 ---
 
-### 10. Mitbewohner-Verzeichnis
-- Übersicht aller Bewohner mit Name, Zimmernummer, Studiengang, Kontakt
-- **Erweiterung:**
-  - Avatar-Foto
+### 9. Borrowing & Sharing Function
+- List of items available for borrowing (tools, household items, etc.)
+- Display of current availability
+- **Extension:** Reminder function for borrowed items
 
 ---
 
-### 11. Authentifizierung & Flur-Beitritt
-- Nutzerregistrierung mit E-Mail & Passwort
-- Zuweisung zu einem Flur durch Eingabe eines **Flurcodes oder WLAN-Schlüssels**
-- **Alternative (DSGVO-freundlicher):** Admin erstellt Einladungscode für den Flur
+### 10. Roommate Directory
+- Overview of all residents with name, room number, study program, and contact details
+- **Extension:**
+  - Avatar photo
 
 ---
 
-### 12. Abwesenheitsmanagement
-- Möglichkeit, Abwesenheiten einzutragen (z. B. Semesterferien)
-- Automatische Anpassung des Putzplans
-- **Erweiterung:** Anzeige im Kalender, wer wann anwesend ist
+### 11. Authentication & Corridor Membership
+- User registration via email and password
+- Assignment to a corridor by entering a **corridor code or Wi-Fi key**
+- **Alternative (GDPR-friendly):** Admin creates an invitation code for the corridor
 
 ---
 
-### 13. Kochen & Aktivitäten planen
-- Möglichkeit, gemeinsame Kochaktionen einzutragen („Heute Chili sin Carne – Mitkochen?“)
-- Anzeige, wie viele teilnehmen
-- **Erweiterung:** Integration mit Einkaufsliste (automatische Mengenberechnung)
+### 12. Absence Management
+- Option to record absences (e.g., semester break)
+- Automatic adjustment of the cleaning schedule
+- **Extension:** Calendar display showing who is present or absent
 
 ---
 
-### 14. Raum- & Fachverwaltung
-- Übersicht über die Aufteilung in Küche / Kühlschrank / Schränke
-- Zuordnung, wer welchen Bereich nutzt
-- **Erweiterung:** Automatische Vorschläge bei neuen Mitbewohner*innen („Schrank 3 ist frei“)
+### 13. Cooking & Activity Planning
+- Option to plan shared cooking events (“Chili sin Carne tonight – want to join?”)
+- Display of the number of participants
+- **Extension:** Integration with shopping list (automatic quantity calculation)
 
 ---
 
+### 14. Room & Storage Management
+- Overview of the division of kitchen, fridge, and cupboards
+- Assignment of areas to residents
+- **Extension:** Automatic suggestions for new roommates (“Cabinet 3 is available”)
+
+---
