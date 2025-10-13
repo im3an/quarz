@@ -33,9 +33,6 @@ Eine interaktive Wand, auf der Besucher:innen ihre Gefühle eingeben oder einspr
 - **Technische Umsetzung:** stabile Echtzeitverarbeitung
 - **Ästhetik & Ausdruck:** überzeugende emotionale Übersetzung
 
-**Potenzial:** ⭐⭐⭐⭐⭐
-> Hoher künstlerischer und sozialer Mehrwert verbindet Technologie, Emotion und Kunst zu einem kollektiv erfahrbaren Erlebnis.
-
 ---
 
 
@@ -61,9 +58,6 @@ Ein interaktiver Bildschirm mit Kamera und AR-Elementen: Nutzer beantworten kurz
 - **Usability:** intuitiv und motivierend
 - **Technik:** stabile Echtzeitverarbeitung
 - **Kreativität:** Verbindung von Beratung und AR-Erlebnis
-
-**Potenzial:** ⭐⭐⭐☆☆
-> Innovative, spielerische Studienberatung – stärkt Motivation und Engagement.
 
 ---
 
@@ -92,9 +86,6 @@ Ein Webportal für anonyme Posts (z. B. Studiengeständnisse oder Tipps). Nutzer
 - **Technik:** solide Backend-Architektur, Sentiment-Analyse
 - **Kreativität:** sozialpsychologisches Experiment als Webkunst
 
-**Potenzial:** ⭐⭐⭐⭐⭐
-> Spannende Verbindung von Datenschutz, Psychologie und Interaktion regt zum Nachdenken über digitales Verhalten an.
-
 ---
 
 ### Szenario 4: [[./Szenario Perspektiven/The Bias Interface.md | The Bias Interface]]
@@ -119,9 +110,6 @@ Eine simulierte Plattform (z. B. für Stipendien oder Abstimmungen), bei der kle
 - **Interaktivität:** direkt erlebbarer Effekt von Designentscheidungen
 -  **Technik:** präzise Tracking- und Analysetools
 -  **Kreativität:** reflektiert ethische Fragen im UX-Design
-
-**Potenzial:** ⭐⭐⭐⭐⭐
-> Hoher Lern- und Reflexionswert – verbindet Webdesign, Psychologie und Ethik auf eindrucksvolle Weise.
 
 ---
 
@@ -150,20 +138,16 @@ Eine kollaborative digitale Plattform, auf der jedes von Nutzer:innen hochgelade
 - **Technik:** nahtlose Integration von Frontend, Backend und Farbanalyse  
 - **Kreativität:** ästhetisches Zusammenspiel aus Algorithmen, Design und Community  
 
-**Potenzial:** ⭐⭐⭐⭐⭐  
-> Ein digitales Gemeinschaftsprojekt, das Technologie, Kunst und soziale Interaktion vereint – ein lebendiges Beispiel kollaborativer Kreativität im digitalen Raum.
-
-
 ## Entscheidungsmatrix
 
-| Kriterium | Szenario 1 | Szenario 2 | Szenario 3 |
-|-----------|------------|------------|------------|
-| **Machbarkeit** (1-5) | 5 | 4 | 4 |
-| **Innovation** (1-5) | 3 | 3 | 5 |
-| **User Impact** (1-5) | 4 | 5 | 4 |
-| **Fachliche Relevanz** (1-5) | 5 | 5 | 5 |
-| **Team-Interesse** (1-5) | 3 | 4 | 4 |
-| **Gesamt** | 20 | 21 | 22 |
+| Kriterium | Szenario 1 | Szenario 2 | Szenario 3 | Szenario 4 | Szenario 5 |
+|-----------|------------|------------|------------|------------|------------|
+| **Machbarkeit** (1-5) | 5 | 4 | 4 | 5 | 3 |
+| **Innovation** (1-5) | 3 | 3 | 5 | 3 | 2 |
+| **User Impact** (1-5) | 4 | 5 | 4 | 4 | 1 |
+| **Fachliche Relevanz** (1-5) | 5 | 5 | 5 | 5 | 4 |
+| **Team-Interesse** (1-5) | 2 | 3 | 3 | 4 | 1 |
+| **Gesamt** | 19 | 20 | 21 | 21 | 11 |
 
 ## Finale Entscheidung
 
