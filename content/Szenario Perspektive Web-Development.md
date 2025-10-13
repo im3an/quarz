@@ -125,6 +125,35 @@ Eine simulierte Plattform (z. B. für Stipendien oder Abstimmungen), bei der kle
 
 ---
 
+### Szenario 5: [[./Szenario Perspektiven/Mosaic Generator.md | Mosaic Generator]]
+
+**Problemstellung:**  
+Kollektive digitale Kunst ist meist statisch oder von einzelnen Künstler:innen geschaffen. Wie kann Technologie es ermöglichen, dass viele Nutzer:innen gleichzeitig an einem sich ständig entwickelnden, ästhetisch harmonischen Kunstwerk teilnehmen?  
+
+**Zielgruppe:**  
+Kunstschaffende, digitale Designer:innen, Entwickler:innen, Community-Plattformen und interaktive Medienprojekte.  
+
+**Lösungsansatz:**  
+Eine kollaborative digitale Plattform, auf der jedes von Nutzer:innen hochgeladene Bild zu einem „Pixel“ in einem ständig wachsenden Mosaik wird. Die Position jedes Bildes wird anhand seiner dominanten Farbe berechnet und automatisch in eine größere Zielgrafik (z. B. ein Gemälde oder Logo) integriert. Beim Hovern oder Zoomen werden die ursprünglichen Fotos sichtbar und offenbaren die Vielfalt der Beiträge.  
+
+**Technische Herausforderungen:**  
+
+- Bildanalyse zur Extraktion der dominanten Farbe (z. B. via *color-thief* oder *k-means clustering*)  
+- Echtzeit-Rendering und dynamische Aktualisierung des Mosaiks bei neuen Uploads  
+- Performante Speicherung und Verwaltung großer Bildmengen (Cloudinary, Firebase, AWS S3)  
+- Implementierung flüssiger Zoom- und Hover-Effekte (Canvas, WebGL oder Pixi.js)  
+- Farb-Matching-Algorithmus zur optimalen Platzierung der Bilder innerhalb des Zielmotivs  
+
+**Bewertungskriterien aus Fachperspektive:**  
+
+- **Interaktivität:** gemeinschaftliches, sich permanent veränderndes Kunstwerk  
+- **Technik:** nahtlose Integration von Frontend, Backend und Farbanalyse  
+- **Kreativität:** ästhetisches Zusammenspiel aus Algorithmen, Design und Community  
+
+**Potenzial:** ⭐⭐⭐⭐⭐  
+> Ein digitales Gemeinschaftsprojekt, das Technologie, Kunst und soziale Interaktion vereint – ein lebendiges Beispiel kollaborativer Kreativität im digitalen Raum.
+
+
 ## Entscheidungsmatrix
 
 | Kriterium | Szenario 1 | Szenario 2 | Szenario 3 |

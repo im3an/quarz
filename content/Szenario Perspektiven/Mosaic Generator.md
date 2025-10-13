@@ -112,3 +112,10 @@ title: Collaborative digital Mosaic
 - **Social Element:** Allow users to “claim” a tile (their photo permanently visible).
 - **NFT Integration (optional):** Each uploaded image could represent a tokenized piece of the artwork.
 - **Community Challenges:** “Help complete this artwork by uploading red-toned images!”
+
+
+<div align="center">
+
+**Author:** Imran Moujtahid
+
+</div>

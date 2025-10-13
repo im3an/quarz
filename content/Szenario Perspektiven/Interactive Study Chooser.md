@@ -13,7 +13,7 @@ At the end, the system reveals **a personalized “study persona”** and sugges
 
 ## 1. **Emotion & Expression Tracking**
 
-Using **face tracking and sentiment detection** (via TensorFlow.js or MediaPipe), the system observes micro-expressions, tone, and energy to understand how the participant reacts to each question.
+Using **face tracking and "[sentiment detection](https://github.com/vladmandic/human)"** (via TensorFlow.js or MediaPipe), the system observes micro-expressions, tone, and energy to understand how the participant reacts to each question.
 
 > e.g.
 > Smiling confidently → “You seem curious and open, maybe Media Design suits you.”

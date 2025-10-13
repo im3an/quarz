@@ -1,6 +1,7 @@
 ---
 title: The Bias Interface
 ---
+
 # Core Idea
 
 An **interactive behavioral experiment disguised as a real website** a fake **scholarship or voting platform** where subtle UI changes (button size, color, placement, or wording) **influence how people make decisions**.
