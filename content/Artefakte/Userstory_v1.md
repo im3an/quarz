@@ -1,26 +1,26 @@
 ## SUCHENDE / FREIWILLIGE
 
-- **U1:** Also Freiwillige:r möchte ich ohne Anmeldung sofort Suchgebiete auf der Karte sehen, damit ich schnell weiß, wo ich helfen kann
-- **U2:** Also Freiwillige:r möchte ich meine durchsuchten Bereiche per GPS automatisch erfassen lassen, damit ich mich aufs Suchen konzentrieren kann.​
-- **U3:** Also Freiwillige:r möchte ich mehrere Eingabemodi (GPS-Tracking, manuelle Markierung) wählen können, damit ich flexible arbeiten kann.  
-- **U4:** Also Freiwillige:r möchte ich sehen, wo andere gerade suchen, damit wir uns nicht überschneiden.​
-- **U5:** Also Freiwillige:r möchte ich Benachrichtigungen bei Erfolg oder Updates erhalten, damit ich motiviert bleibe.
-- **U6:** Also Freiwillige:r möchte ich auch offline Bereiche markieren können, damit ich bei schlechter Netzabdeckung weiterarbeiten kann.​
-- **U7:** Also Freiwillige:r möchte ich Hinweise zur Suchstrategie und Geländeinfos sehen, damit ich effektiv suche.
-- **U8:** Also Freiwillige:r möchte ich nach Wunsch meine Identität verbergen können, ohne meine Beiträge zu verlieren.​
+- **U1:** Als Freiwillige:r möchte ich ohne Anmeldung sofort Suchgebiete auf der Karte sehen, damit ich schnell weiß, wo ich helfen kann
+- **U2:** Als Freiwillige:r möchte ich meine durchsuchten Bereiche per GPS automatisch erfassen lassen, damit ich mich aufs Suchen konzentrieren kann.​
+- **U3:** Als Freiwillige:r möchte ich mehrere Eingabemodi (GPS-Tracking, manuelle Markierung) wählen können, damit ich flexible arbeiten kann.  
+- **U4:** Als Freiwillige:r möchte ich sehen, wo andere gerade suchen, damit wir uns nicht überschneiden.​
+- **U5:** Als Freiwillige:r möchte ich Benachrichtigungen bei Erfolg oder Updates erhalten, damit ich motiviert bleibe.
+- **U6:** Als Freiwillige:r möchte ich auch offline Bereiche markieren können, damit ich bei schlechter Netzabdeckung weiterarbeiten kann.​
+- **U7:** Als Freiwillige:r möchte ich Hinweise zur Suchstrategie und Geländeinfos sehen, damit ich effektiv suche.
+- **U8:** Als Freiwillige:r möchte ich nach Wunsch meine Identität verbergen können, ohne meine Beiträge zu verlieren.​
 
 ## ANGEHÖRIGE / MELDENDE
 
-- **U16:** Also Angehörige:r möchte ich den Suchfortschritt einsehen können, damit ich informiert bin.
-- **U17:** Also Angehörige:r möchte ich sensible Informationen geschützt wissen, damit keine Persönlichkeitsrechte verletzt werden.​
-- **U18:** Also Meldende:r möchte ich Hinweise oder letzte bekannte Orte markieren können, damit die Suche gezielter started.​
+- **U16:** Als Angehörige:r möchte ich den Suchfortschritt einsehen können, damit ich informiert bin.
+- **U17:** Als Angehörige:r möchte ich sensible Informationen geschützt wissen, damit keine Persönlichkeitsrechte verletzt werden.​
+- **U18:** Als Meldende:r möchte ich Hinweise oder letzte bekannte Orte markieren können, damit die Suche gezielter started.​
     
 ## SYSTEMBETREIBER / ENTWICKLER
 
-- **U19:** Also Betreiber:in möchte ich eine skalierbare Cloud-Infrastruktur nutzen, damit das System bei Massennutzung stabil läuft.​
-- **U20:** Also Entwickler:in möchte ich APIs für externe Kartendienste integrieren, damit aktuelle Geodaten verfügbar sind.​
-- **U21:** Also Admin möchte ich Rollen und Rechte granular steuern können, damit Datensicherheit gewährleistet ist.​
-- **U22:** Also Betreiber:in möchte ich Monitoring und Logs einsehen können, damit ich Problem frühzeitig erkenne.​
+- **U19:** Als Betreiber:in möchte ich eine skalierbare Cloud-Infrastruktur nutzen, damit das System bei Massennutzung stabil läuft.​
+- **U20:** Als Entwickler:in möchte ich APIs für externe Kartendienste integrieren, damit aktuelle Geodaten verfügbar sind.​
+- **U21:** Als Admin möchte ich Rollen und Rechte granular steuern können, damit Datensicherheit gewährleistet ist.​
+- **U22:** Als Betreiber:in möchte ich Monitoring und Logs einsehen können, damit ich Problem frühzeitig erkenne.​
     
 ## VOLLSTÄNDIGE STAKEHOLDER-ANALYSE: VERMISSTE HAUSTIERE
 
