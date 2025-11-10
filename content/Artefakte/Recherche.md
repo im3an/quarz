@@ -5,7 +5,7 @@ Hier werden grob die Abläufe erklärt die zu einer erweiterten Vermissten suche
 - Bei Demenz oder ähnlichem werden auch alte oft besuchte orte durchsucht wie z.B. der vorherige Wohnsitz
 - Weitere orte wo sich die person oft aufhält werden durchsucht
 - Weitere Suchpunkte sind: umliegende Krankenhäuser und Arztpraxen (Unfall, Krankheit), umliegende Polizeidienststellen (Unfall, polizeilicher Gewahrsam), Transportunternehmen (Taxi, Bus, Bahn), Autowerkstätten (technischer Defekt), Gasthäuser, etc.
-- Bei einer erweiterten werden extrem viele Personen für die Suchaktion benutzt um möglichst viele orte gleichzeitig abzusuchen, dies ist besser als wenn wenige über einen längeren Zeitraum suchen, weil die vermisste person sich sonst von einem bereich der zukünftig durchsucht wird zu einem bereich der durchsucht wurde bewegen könnte. so ist eine suche mit viel personal bei gleicher Personalstunden deutlich besser.
+- Bei einer erweiterten werden extrem viele Personen für die Suchaktion benutzt um möglichst viele orte gleichzeitig abzusuchen, dies ist besser als wenn wenige über einen längeren Zeitraum suchen, weil die vermisste person sich sonst von einem bereich der zukünftig durchsucht wird zu einem bereich der durchsucht wurde bewegen könnte. so ist eine suche mit viel personal bei gleicher Personalstunden deutlich besser.Dafür wird das umliegende gebiet in bereiche aufgeteilt und den unterschiedlichen Einsatzkräften zugeteilt.
 Daraus lassen sich folgende Strategien für die suche vermisster Haustiere herleiten:
 - zuerst genau nochmal im eigenen Haus suchen
 - Orte absuchen an denen sich das tier öfter aufhält (oft besuchte Orte).
